@@ -44,7 +44,7 @@
 		<meta property="term" refines="#subject-4">sh2007100472</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008108758</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman’s life unravels through a series of romantic entanglements.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jenny Winge, a young Norweigian painter, is seeking inspiration in Rome with a community of artists. Her world begins to unravel with the arrival of Helge Gram, a younger fellow Norweigian whose romantic attention she accepts despite growing evidence of a mismatch. This precipitates a series of romantic crises which challenge whether artistic ambition and moral idealism can coexist with romantic love.&lt;/p&gt;
