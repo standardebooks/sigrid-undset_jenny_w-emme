@@ -61,6 +61,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sigrid_Undset</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79043449</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">W. (William) Emmé.</dc:contributor>
+		<meta property="file-as" refines="#translator">Emmé., W. (William)</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Vilhelm Hammershøi</dc:contributor>
 		<meta property="file-as" refines="#artist">Hammershøi, Vilhelm</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i</meta>
