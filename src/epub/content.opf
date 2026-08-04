@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008108758</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young woman’s life unravels through a series of romantic entanglements.</dc:abstract>
+		<meta property="schema:abstract">A young woman’s life unravels through a series of romantic entanglements.</meta>
 		<dc:description>
 			&lt;p&gt;Jenny Winge, a young Norwegian painter, seeks inspiration by joining a community of artists in Rome. But her world begins to unravel with the arrival of Helge Gram, a younger Norwegian whose romantic attention she accepts despite growing evidence of a mismatch. This precipitates a series of romantic crises that explore whether artistic ambition and moral idealism can coexist with romantic love.&lt;/p&gt;
 		</dc:description>
